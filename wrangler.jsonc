@@ -2,13 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "lucy",
   "compatibility_date": "2026-05-08",
-  "observability": {
-    "enabled": true
-  },
   "assets": {
-    "directory": "./public"
-  },
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
+    "directory": "./"
+  }
 }
